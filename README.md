@@ -1,65 +1,67 @@
-# 📦 Servicios y Suministros del Norte
+# Servicios y Suministros del Norte
 
 ## 🧭 Overview
-- Short Summary of the app and what problem it solves. 
-- Include a screnshot of GIF here is possible.
-![Screenshot](./assets/screenshot.png) <!-- Replace with your image path -->
+**Servicios y Suministros del Norte** is a clean and simple informational website built for a construction services company. Its purpose is to provide visitors with quick and clear access to the company’s core services, recent projects, and contact information. This project was built using **WordPress** with a minimalistic design philosophy, meeting the client’s request for clarity and ease of use.
 
 ## 💡 Idea & Concept
-- What inspired this? 
-- Who is it for? 
+The client required a lightweight, professional website to:
+- Showcase their core services in construction and supply.
+- Present a visual gallery of completed projects.
+- Allow potential clients to get in touch via a contact form.
+- Make it easy to manage and update media without technical expertise.
 
 ## ✨ Features & Functionality
-- Bullet list of main features 
+- **Home Page:** Overview of services with direct navigation to key sections.
+- **Services Page:** Descriptions of the company’s offerings in construction and supply.
+- **Gallery Page:** Visual showcase of past work, updated regularly by the client.
+- **About Us:** Mission, vision, and brief company history.
+- **Contact Page:** Contact form, embedded Google Maps, and business information.
+- **WordPress Admin Access:** Client can update images and content directly.
 
 ## ⚙️ Tech Stack
-- Language(s), framework, libraries, services, tools, deployment platform. 
+- **CMS:** WordPress
+- **Frontend:** HTML, CSS, JavaScript
+- **Builder:** Elementor
+- **Hosting:** Custom shared hosting server with regular backups and performance monitoring
+- **Other Tools:** SMTP plugin for contact forms, security plugins, and image optimization
 
 ## 🏗 Architecture & Design
-- Describe how its structured (e.g., MVC, Monolith, Microservices)
-- Include diagrams if applicable 
+- One-level, page-based navigation
+- Mobile-responsive and accessible
+- Clean and neutral design with construction-themed accents
+- Structured to prioritize speed, clarity, and reliability
 
 ## 🚀 Installation & Setup
-- **Prerequisites:** 
+- **Deployment:** Live on a private shared hosting platform
+- **SSL & DNS:** Managed and configured by developer
+- **Updates:** Regular plugin, theme, and core updates handled by developer
 
-- **Installation Steps:** 
+> **Note:** Client was trained to handle basic content updates such as uploading new gallery photos.
 
-- **Deployment Environment:** 
-
-- **Access:** 
-
-> **Note:** 
-
-## 🧑‍💻 Usage
-- How to use the software after setup 
-- CLI Commands, UI Walkthrough, or API Endpoints. 
-
-## 🔍 My Role & Contributions
-- 💼 Full-stack development
-- 🧱 Architecture design
-- 🐞 Bug fixing and optimization
-- 🤝 Collaboration with design/product teams
+## 🧑‍💻 My Role & Contributions
+- Built full website structure in WordPress
+- Customized theme to match business branding
+- Configured hosting, SSL, DNS, and email routing
+- Created contact forms with anti-spam measures
+- Trained client to use WordPress dashboard for photo and content management
 
 ## 🧗 Challenges & Learnings
-- Major issues you faced and how you overcome them.
-- What you learned from the process.
+- Balancing simplicity with functionality
+- Working with limited visual content initially
+- Ensuring future scalability without overcomplicating the site
 
 ## 📈 Future Enhancements
-- Features you plan to build. 
-- Known bugs or technical debt. 
-
-## 🤝 Contributing
-- How other can contribute (if open source)
+- Adding project detail pages with written summaries
+- Adding client testimonials
+- Implementing a blog or news section
+- Connecting to social media pages
 
 ## 🪪 License
-⚠️ License Notice  
-This repository was originally published under the MIT License.  
-As of April 22, 2025, the license has been changed to **CC BY-NC-ND 4.0**.  
-See the LICENSE file for details.
+This is a commercial project built for a private client and is not open source.
 
 ## 🔗 Additional Resources
-- **Documentation:** 
-
-- **Related Projects:** 
-
-- **Live Demo Link:** 
+- **Live Website:** *Private internal hosting*
+- **JUCOD Projects Portfolio:** See similar WordPress websites like:
+  - [Globos Toys Ericka](#)
+  - [Decoraciones Ene](#)
+  - [LineUp Boutique](#)
